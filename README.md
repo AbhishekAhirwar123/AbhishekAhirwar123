@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekahirwar123&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekahirwar123" /> </p>
 
-- 🔭 I’m currently working on **NextJs Projects** .
+- 🔭 I’m currently working on **Next Js Projects** .
 
-- 🌱 I’m currently learning **NextJs, Material UI and etc...** .
+- 🌱 I’m currently learning **Next Js, Material UI and etc...** .
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Developer** .
 
